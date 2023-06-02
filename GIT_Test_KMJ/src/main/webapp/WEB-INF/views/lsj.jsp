@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>이수정이 생성한 lsj.jsp</h1>
+	수정
 </body>
 </html>
