@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>저는 김묘정입니다...</h1>
+	<h1>이수정이 생성한 lsj.jsp</h1>
 </body>
 </html>
