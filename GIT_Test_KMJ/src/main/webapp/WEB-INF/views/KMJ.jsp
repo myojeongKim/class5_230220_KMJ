@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>저는 김묘정입니다.</h1>
+	<h1>저는 김묘정입니다!</h1>
 </body>
 </html>
